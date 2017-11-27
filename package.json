@@ -1,10 +1,11 @@
 {
   "name": "seanomlor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sean Omlor's contact information",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "cat info.json",
+    "seanomlor": "cat info.json"
   },
   "repository": {
     "type": "git",
