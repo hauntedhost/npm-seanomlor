@@ -10,5 +10,10 @@ Inspired by [John K. Paul](http://github.com/johnkpaul) via [Justin Searls](http
 $ npm install seanomlor
 ```
 
+Or better, with [npx](https://github.com/zkat/npx):
+```
+$ npx seanomlor
+```
+
 ---
 [Sean Omlor](http://seanomlor.com)
