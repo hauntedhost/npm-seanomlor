@@ -1,0 +1,20 @@
+{
+  "name": "seanomlor",
+  "version": "0.0.1",
+  "description": "Sean Omlor's contact information",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somlor/seanomlor.git"
+  },
+  "keywords": ["contact", "sean omlor", "somlor"],
+  "author": "Sean Omlor <somlor@eml.cc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somlor/seanomlor/issues"
+  },
+  "homepage": "https://github.com/somlor/seanomlor#readme"
+}
