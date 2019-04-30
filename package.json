@@ -1,10 +1,11 @@
 {
   "name": "seanomlor",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Sean Omlor's contact information",
   "main": "index.js",
   "scripts": {
-    "postinstall": "./info.js"
+    "postinstall": "$npm_package_bin_seanomlor",
+    "start": "$npm_package_bin_seanomlor"
   },
   "bin": {
     "seanomlor": "./info.js"
