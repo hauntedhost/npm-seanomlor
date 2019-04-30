@@ -1,19 +1,23 @@
 {
   "name": "seanomlor",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Sean Omlor's contact information",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "./info.js"
   },
   "bin": {
-    "seanomlor": "bin/info.js"
+    "seanomlor": "./info.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/somlor/seanomlor.git"
   },
-  "keywords": ["contact", "sean omlor", "somlor"],
+  "keywords": [
+    "contact",
+    "sean omlor",
+    "somlor"
+  ],
   "author": "Sean Omlor <somlor@eml.cc>",
   "license": "MIT",
   "bugs": {
