@@ -1,6 +1,6 @@
 {
   "name": "seanomlor",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "description": "Sean Omlor's contact information",
   "main": "index.js",
   "scripts": {
