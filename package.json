@@ -1,6 +1,6 @@
 {
   "name": "seanomlor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sean Omlor's contact information",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/somlor/seanomlor.git"
+    "url": "git+https://gitlab.com/seanomlor/npm-seanomlor.git"
   },
   "keywords": [
     "contact",
@@ -22,7 +22,7 @@
   "author": "Sean Omlor <somlor@eml.cc>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/somlor/seanomlor/issues"
+    "url": "https://gitlab.com/seanomlor/npm-seanomlor/issues"
   },
-  "homepage": "https://github.com/somlor/seanomlor#readme"
+  "homepage": "https://gitlab.com/seanomlor/npm-seanomlor"
 }
